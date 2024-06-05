@@ -16,9 +16,9 @@ Music player for Windows with rich features and themes
 - Python 3
 
 ## Tech Stack💻 
-- Tkinter (GUI)
-- Pygame (Audio library)
-- Mutagen (metadata)
+- <a href="https://docs.python.org/3/library/tk.html">Tkinter (GUI)</a>
+- <a href="https://www.pygame.org/news">Pygame (Audio library) </a>
+- <a href="https://mutagen.readthedocs.io/en/latest/index.html">Mutagen (metadata)</a>
 
 ## Development Tools💻
 - Pycharm
