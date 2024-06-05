@@ -48,6 +48,17 @@ Music player for Windows with rich features and themes
 - More features are under development
 
 ## Screenshots
+Music player playing 
+![screenshot - player playing in Dutch Purple dark theme](https://github.com/reshmaharidhas/PC-Musique-Player/assets/37250413/b010ef2e-f6f2-48c9-98d6-816cdb77e4e5)
+![screenshot - player playing in default theme](https://github.com/reshmaharidhas/PC-Musique-Player/assets/37250413/afedcf24-0a62-46a2-96a7-1f44db9f8097)
+Player in compact mode by hiding the library
+![screenshot - player playing after hiding library](https://github.com/reshmaharidhas/PC-Musique-Player/assets/37250413/5e7a6119-b1e2-4c29-82b0-0c65a56706cb)
+Player in idle mode
+![screenshot - player idle](https://github.com/reshmaharidhas/PC-Musique-Player/assets/37250413/551f4b99-daec-429d-844d-b41bcdb261e2)
+Player in idle mode and in NYC taxi theme
+![screenshot - player idle_nyc_tax__theme](https://github.com/reshmaharidhas/PC-Musique-Player/assets/37250413/6f6aff1b-8e0d-4d3b-a484-dd8ad611f509)
+Choosing theme from the menu bar
+![screenshot - player idle showing available themes](https://github.com/reshmaharidhas/PC-Musique-Player/assets/37250413/a732f314-cbb2-4ed2-b317-10d5032dbb49)
 
 
 ## Keyboard Shortcuts:
