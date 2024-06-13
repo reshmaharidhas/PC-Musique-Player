@@ -34,6 +34,7 @@ Music player for Windows with rich features and themes
 - Play/Pause/Resume buttons in the player.
 - Next and Previous buttons in player.
 - In-player volume adjustments (volume up,down,mute)
+- Mini player mode
 - Play songs in random order by shuffling
 - Displays metadata such as album art, artists, album year, duration from the audio file.
 - Turn Shuffle ON or OFF with button
@@ -43,7 +44,7 @@ Music player for Windows with rich features and themes
 - Double-click to play any track from the library
 - Stop button to stop the music player anytime.
 - Music visualizer that plays with audio.
-- 16 different themes to choose.
+- 23 different themes to choose.
 - Make the player compact by hiding the library showing only UI controls, album art, metadata.
 - Widen the window by showing the library.
 - Menu bar with buttons to exit, select folder for library, increase or decrease volume.
@@ -51,17 +52,16 @@ Music player for Windows with rich features and themes
 
 ## Screenshots
 Music player playing 
-![screenshot - player playing in Dutch Purple dark theme](https://github.com/reshmaharidhas/PC-Musique-Player/assets/37250413/b010ef2e-f6f2-48c9-98d6-816cdb77e4e5)
-![screenshot - player playing in default theme](https://github.com/reshmaharidhas/PC-Musique-Player/assets/37250413/afedcf24-0a62-46a2-96a7-1f44db9f8097)
+![screenshot - black theme player in full mode](https://github.com/reshmaharidhas/PC-Musique-Player/assets/37250413/dbe13331-ca8e-41ae-816c-2db52f82646f)
+![screenshot - french vert theme player in full mode](https://github.com/reshmaharidhas/PC-Musique-Player/assets/37250413/46e89373-8503-4a43-a72b-ff46cd0eb36c)
 Player in compact mode by hiding the library
-![screenshot - player playing after hiding library](https://github.com/reshmaharidhas/PC-Musique-Player/assets/37250413/5e7a6119-b1e2-4c29-82b0-0c65a56706cb)
-Player in idle mode
-![screenshot - player idle](https://github.com/reshmaharidhas/PC-Musique-Player/assets/37250413/551f4b99-daec-429d-844d-b41bcdb261e2)
-Player in idle mode and in NYC taxi theme
-![screenshot - player idle_nyc_tax__theme](https://github.com/reshmaharidhas/PC-Musique-Player/assets/37250413/6f6aff1b-8e0d-4d3b-a484-dd8ad611f509)
+![screenshot - compact player](https://github.com/reshmaharidhas/PC-Musique-Player/assets/37250413/6ce3679a-8ae0-4db0-984f-15d789de6c82)
+Mini player mode
+![screenshot - mini player mode](https://github.com/reshmaharidhas/PC-Musique-Player/assets/37250413/8bd34d34-ad4a-4ccb-9d26-693d8cff062c)
+Player in playing mode and in NYC taxi theme
+![screenshot - nyc taxi theme](https://github.com/reshmaharidhas/PC-Musique-Player/assets/37250413/4dc19a49-5ed1-4cd7-ad08-88677ab792f3)
 Choosing theme from the menu bar
-![screenshot - player idle showing available themes](https://github.com/reshmaharidhas/PC-Musique-Player/assets/37250413/a732f314-cbb2-4ed2-b317-10d5032dbb49)
-
+![screenshot - player showing available themes](https://github.com/reshmaharidhas/PC-Musique-Player/assets/37250413/96d6833f-99b9-44f7-8fae-e72465a390d8)
 
 ## Keyboard Shortcuts:
 - Space : Play/Pause/Resume
