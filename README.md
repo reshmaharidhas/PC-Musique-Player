@@ -6,6 +6,8 @@
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Freshmaharidhas%2FPC-Musique-Player&label=Visitors&labelColor=%23000000&countColor=%2300ff00&style=plastic&labelStyle=none" />
   <img src="https://img.shields.io/github/languages/top/reshmaharidhas/PC-Musique-Player?labelColor=%23000000&color=%230000FF" />
+  <img src="https://img.shields.io/github/downloads/reshmaharidhas/PC-Musique-Player/total?labelColor=%23000000"/>
+  <img src="https://img.shields.io/sourceforge/dt/pc-musique-player?label=Sourceforge%20downloads&labelColor=%23000000&color=red"/>
   <img src="https://img.shields.io/github/languages/code-size/reshmaharidhas/PC-Musique-Player?labelColor=%23000000&color=%230000FF" />
   <img src="https://img.shields.io/github/v/release/reshmaharidhas/PC-Musique-Player?labelColor=%23000000" />
   <img src="https://img.shields.io/github/release-date/reshmaharidhas/PC-Musique-Player?labelColor=%23000000" />
