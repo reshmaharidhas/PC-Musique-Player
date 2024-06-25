@@ -149,8 +149,8 @@ class Player:
         self.scale_var = tk.IntVar()
         self.scale = tk.Scale(self.mainFrame,from_=0,to=50,orient=tk.HORIZONTAL,length=600,command=self.get_slider_value,variable=self.scale_var,
                          bg=self.main_color,fg=self.text_color,troughcolor=self.button_ui_bg_color,activebackground=self.main_color,bd=0,
-                         state=tk.DISABLED, highlightthickness=0)
-        self.scale.pack()
+                         state=tk.DISABLED, highlightthickness=0,showvalue=0)
+        self.scale.pack(pady=5)
         # controls
         self.controls_frame = tk.Frame(self.mainFrame,pady=15,padx=20,background=self.main_color)
         self.controls_frame.pack()
@@ -811,7 +811,7 @@ class Player:
         app_icon_label = tk.Label(new_popup_window, image=self.app_logo_image)
         app_icon_label.pack()
         tk.Label(new_popup_window, text="PC Musique Player", font=("Arial", 16)).pack()
-        content = "Version: 1.1.0\nRelease Date: 13th June 2024\nDeveloper: Reshma Haridhas\nOS: Windows 10 or later\nCopyright: © 2024 Reshma Haridhas. All Rights Reserved"
+        content = "Version: 1.1.1\nRelease Date: 25th June 2024\nDeveloper: Reshma Haridhas\nOS: Windows 10 or later\nCopyright: © 2024 Reshma Haridhas. All Rights Reserved"
         content_label = tk.Label(new_popup_window, text=content, font=("Arial", 10), fg="#000000")
         content_label.pack()
         # Do not use mainloop() here.
@@ -973,7 +973,7 @@ class Player:
         self.artists_label.pack()
         self.album_year_label.pack()
         self.duration_label.pack()
-        self.scale.pack()
+        self.scale.pack(pady=5)
         self.controls_frame.pack()
         self.mini_max_player_button.config(command=self.change_to_smallplayer,image=self.mini_player_image)
         self.controls_frame2.pack(side=tk.RIGHT, padx=20)
