@@ -54,12 +54,12 @@ Music player for Windows with rich features and themes
 
 ## Screenshots
 Music player playing 
-![screenshot - black theme player in full mode](https://github.com/reshmaharidhas/PC-Musique-Player/assets/37250413/dbe13331-ca8e-41ae-816c-2db52f82646f)
+![screenshot - black theme player in full mode](https://github.com/reshmaharidhas/PC-Musique-Player/assets/37250413/51f73553-7bd4-4ead-bd16-6bdcbc2613e3)
 ![screenshot - french vert theme player in full mode](https://github.com/reshmaharidhas/PC-Musique-Player/assets/37250413/46e89373-8503-4a43-a72b-ff46cd0eb36c)
 Player in compact mode by hiding the library
 ![screenshot - compact player](https://github.com/reshmaharidhas/PC-Musique-Player/assets/37250413/6ce3679a-8ae0-4db0-984f-15d789de6c82)
 Mini player mode
-![screenshot - mini player mode](https://github.com/reshmaharidhas/PC-Musique-Player/assets/37250413/8bd34d34-ad4a-4ccb-9d26-693d8cff062c)
+![screenshot - mini player mode](https://github.com/reshmaharidhas/PC-Musique-Player/assets/37250413/58f8f1a3-95e9-41ae-9f8c-2636834e1e86)
 Player in playing mode and in NYC taxi theme
 ![screenshot - nyc taxi theme](https://github.com/reshmaharidhas/PC-Musique-Player/assets/37250413/4dc19a49-5ed1-4cd7-ad08-88677ab792f3)
 Choosing theme from the menu bar
